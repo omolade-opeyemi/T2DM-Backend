@@ -1,0 +1,1 @@
+{"features": ["age", "gender", "pulse_rate", "systolic_bp", "diastolic_bp", "glucose", "height", "weight", "bmi", "family_diabetes", "hypertensive", "family_hypertension", "cvd", "stroke"], "risk_bands": {"low": 0.2, "high": 0.5}}
